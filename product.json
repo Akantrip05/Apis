@@ -1,0 +1,46 @@
+[
+    
+    {
+        "name":"apple Promax",
+        "price":169,
+        "feature":true,
+        "rating":5.0
+    },
+    {
+        "name":"sumsang",
+        "price":149,
+        "feature":true,
+        "rating":4.9
+    },
+    {
+        "name":"mi",
+        "price":134,
+        "feature":true,
+        "rating":4.5
+    },
+    {
+        "name":"sumsang",
+        "price":169,
+        "rating":4.4
+    },
+    {
+        "name":"dell",
+        "price":1699,
+        "rating":4.6
+    },
+    {
+        "name":"apple",
+        "price":169,
+        "rating":4.7
+    },
+    {
+        "name":"mi",
+        "price":169,
+        "rating":4.8
+    },
+    {
+        "name":"apple",
+        "price":169,
+        "rating":5.0
+    }
+]
